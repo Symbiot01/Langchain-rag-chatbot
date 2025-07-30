@@ -123,13 +123,6 @@ Visit `http://localhost:8501` in your browser.
 * [FastEmbed](https://github.com/lazymatrix/fastembed)
 * [Streamlit](https://streamlit.io/)
 
----
-
-## 🙋‍♂️ Author
-
-**Priyangshu Karmakar**
-*AI Developer & ML Enthusiast*
-GitHub: [@SudoAnxu](https://github.com/SudoAnxu)
 
 ```
 
